@@ -3,5 +3,4 @@
 <p align="left"> <!--- previously centered but image is small ---->
   <b><a href="https://swaggy.dev">Studio Swaggy</a></b>, a small development studio dedicated to making swaggy stuff!
 </p> <!--- Thanks to https://github.com/cptlstudio for showing @devxan how to make good GitHub organization profiles. --->
-
-[Discord community](https://discord.gg/bNtrmCk3VZ)
+Join the Discord [Discord community](https://discord.gg/bNtrmCk3VZ) ✨◬
