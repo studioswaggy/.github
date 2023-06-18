@@ -1,4 +1,4 @@
-[![Colors.png](https://i.postimg.cc/ryPnQYWD/Colors.png)](https://swaggy.dev)
+[![Banner](https://github.com/studioswaggy/.github/assets/57809064/8c1c56f7-5340-4ea6-bbdf-f33f0cc1065e)](https://swaggy.dev)
 
 <p align="left"> <!--- previously centered but image is small ---->
   <b><a href="https://swaggy.dev">Studio Swaggy</a></b> is a small development studio making swaggy stuff.
