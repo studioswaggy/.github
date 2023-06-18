@@ -1,7 +1,7 @@
 [![Colors.png](https://i.postimg.cc/ryPnQYWD/Colors.png)](https://swaggy.dev)
 
 <p align="left"> <!--- previously centered but image is small ---->
-  <b><a href="https://swaggy.dev">Studio Swaggy</a></b> is a small development studio devoted to making swaggy stuff.
+  <b><a href="https://swaggy.dev">Studio Swaggy</a></b> is a small development studio making swaggy stuff.
 </p> <!--- Thanks to https://github.com/cptlstudio for showing @devxan how to make good GitHub organization profiles. --->
 
-We recommend joining the [Discord community](https://discord.gg/bNtrmCk3VZ) ◬✨
+We recommend joining the [Discord community](https://discord.gg/bNtrmCk3VZ) ≈✨
