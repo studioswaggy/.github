@@ -1,7 +1,9 @@
-[![Banner](https://github.com/studioswaggy/.github/assets/57809064/8c1c56f7-5340-4ea6-bbdf-f33f0cc1065e)](https://swaggy.dev)
+
+[![Swaggyware Banner](https://github.com/user-attachments/assets/4320af34-698f-4dc1-ba4f-1b61533d6c8d)](https://swaggy.dev)
+
 
 <p align="left"> <!--- previously centered but image is small ---->
-  <b><a href="https://swaggy.dev">Studio Swaggy</a></b> is a small development studio making swaggy stuff.
+  <b><a href="https://swaggy.dev">Swaggyware</a></b> is a small group making swaggy stuff in the realm of software.
 </p> <!--- Thanks to https://github.com/cptlstudio for showing @devxan how to make good GitHub organization profiles. --->
 
-We recommend joining the [Discord community](https://discord.gg/bNtrmCk3VZ) ≈✨
+We recommend following [our account](https://fosstodon.org/@swaggy) on the fediverse ≈✨ (and join the [Discord community](https://discord.gg/bNtrmCk3VZ))
